@@ -7,7 +7,7 @@ GitHub- https://github.com/aditipawar31
 
 # Output - 1
 
-![Screenshot (1)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/6f6ea44f-db64-440f-86f3-bb6b8b7246bf)
+![Screenshot (1)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%201.png)
 
 
 # Output - 2
