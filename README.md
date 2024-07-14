@@ -12,9 +12,13 @@ GitHub- https://github.com/aditipawar31
 
 # Output - 2
 
-![Screenshot (40)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/4a0e0e3a-c938-42a6-8efb-4dc944b36338)
+![Screenshot (2)](https://github.com/aditipawar31/My-portfolio/blob/main/screen%202.png)
 
 
 # Output - 3
 
-![Screenshot (41)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/574552ff-24ad-475a-b526-30dcc97e83c8)
+![Screenshot (3)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/574552ff-24ad-475a-b526-30dcc97e83c8)
+
+# Output - 4
+
+![Screenshot (4)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/574552ff-24ad-475a-b526-30dcc97e83c8)
